@@ -1,0 +1,86 @@
+body {
+  background-color: hsl(0, 0%, 8%);
+  display: flex;
+}
+
+.div-1 {
+  background-color: hsl(0, 0%, 12%);
+  width: 400px;
+  margin: auto;
+  height: 600px;
+  margin-top: 20px;
+}
+
+img {
+  border-radius: 100px;
+  margin-left: 100px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.p-1 {
+  color: hsl(75, 94%, 57%);
+  text-align: center;
+}
+
+.p-2 {
+  color: white;
+  text-align: center;
+}
+
+.b-1 {
+  width: 350px;
+  margin-left: 25px;
+  height: 40px;
+  color: white;
+  background-color: hsl(0, 0%, 20%);
+  border-radius: 5px;
+  border: 1px hsl(0, 0%, 20%) solid;
+}
+
+.b-2 {
+  width: 350px;
+  margin-left: 25px;
+  height: 40px;
+  margin-top: 10px;
+  color: white;
+  background-color: hsl(0, 0%, 20%);
+  border-radius: 5px;
+  border: 1px hsl(0, 0%, 20%) solid;
+}
+
+.b-3 {
+  width: 350px;
+  margin-left: 25px;
+  height: 40px;
+  margin-top: 10px;
+  color: white;
+  background-color: hsl(0, 0%, 20%);
+  border-radius: 5px;
+  border: 1px hsl(0, 0%, 20%) solid;
+}
+
+.b-4 {
+  width: 350px;
+  margin-left: 25px;
+  height: 40px;
+  margin-top: 10px;
+  color: white;
+  background-color: hsl(0, 0%, 20%);
+  border-radius: 5px;
+  border: 1px hsl(0, 0%, 20%) solid;
+}
+
+.b-5 {
+  width: 350px;
+  margin-left: 25px;
+  height: 40px;
+  margin-top: 10px;
+  color: white;
+  background-color: hsl(0, 0%, 20%);
+  border-radius: 5px;
+  border: 1px hsl(0, 0%, 20%) solid;
+}
